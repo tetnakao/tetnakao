@@ -1,5 +1,5 @@
-Tetsushi Nakao @ Broad Insitute\n
-Physician sientist (Cardiologist)\n
+Tetsushi Nakao @ Broad Insitute 
+Physician sientist (Cardiologist): 
 Learning how to code
 
 <!---
